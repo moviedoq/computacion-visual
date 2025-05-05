@@ -73,7 +73,9 @@ Este método rellena un triángulo usando **interpolación de bordes** y recorri
 ## 🖼️ Resultado visual
 
 Ejemplo de imagen generada con los tres algoritmos aplicados:
-
+![](https://github.com/moviedoq/computacion-visual/blob/main/2025-05-05_taller_agoritmos_rasterizacion_basica/resultados/linea.png?raw=true)
+![](https://github.com/moviedoq/computacion-visual/blob/main/2025-05-05_taller_agoritmos_rasterizacion_basica/resultados/circulo.png?raw=true)
+![](https://github.com/moviedoq/computacion-visual/blob/main/2025-05-05_taller_agoritmos_rasterizacion_basica/resultados/triangulo.png?raw=true)
 
 ----------
 
